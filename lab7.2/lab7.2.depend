@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1682693484 source:c:\users\nadia\desktop\algorytmika\lab7.2\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+	<string>
+
+1682693484 c:\users\nadia\desktop\algorytmika\lab7.2\include\tstudent.h
+	<iostream>
+	<string>
+
+1682693484 source:c:\users\nadia\desktop\algorytmika\lab7.2\main.cpp
+	<iostream>
+	"Tstudent.h"
+	"Tpromotor.h"
+	"TpracaDyplomowa.h"
+	"TegzaminDyplomowy.h"
+
+1682693484 c:\users\nadia\desktop\algorytmika\lab7.2\include\tpromotor.h
+	<iostream>
+	<string>
+
+1682693484 c:\users\nadia\desktop\algorytmika\lab7.2\include\tpracadyplomowa.h
+	"Tstudent.h"
+	"Tpromotor.h"
+	<iostream>
+	<string>
+
+1682693494 c:\users\nadia\desktop\algorytmika\lab7.2\include\tegzamindyplomowy.h
+	<iostream>
+	"Tstudent.h"
+
+1682693484 source:c:\users\nadia\desktop\algorytmika\lab7.2\src\tegzamindyplomowy.cpp
+	"TegzaminDyplomowy.h"
+	<iostream>
+
+1682693503 source:c:\users\nadia\desktop\algorytmika\lab7.2\src\tpracadyplomowa.cpp
+	"TpracaDyplomowa.h"
+	<iostream>
+	<string>
+
+1682726641 source:c:\users\nadia\desktop\c++\lab7\lab7.2\main.cpp
+	<iostream>
+	"Tstudent.h"
+	"Tpromotor.h"
+	"TpracaDyplomowa.h"
+	"TegzaminDyplomowy.h"
+
+1682720845 c:\users\nadia\desktop\c++\lab7\lab7.2\include\tstudent.h
+	<iostream>
+	<string>
+
+1682713658 c:\users\nadia\desktop\c++\lab7\lab7.2\include\tpromotor.h
+	<iostream>
+	<string>
+
+1682721033 c:\users\nadia\desktop\c++\lab7\lab7.2\include\tpracadyplomowa.h
+	"Tstudent.h"
+	"Tpromotor.h"
+	<iostream>
+	<string>
+
+1682726641 c:\users\nadia\desktop\c++\lab7\lab7.2\include\tegzamindyplomowy.h
+	<iostream>
+	"Tpromotor.h"
+	"Tstudent.h"
+	"TpracaDyplomowa.h"
+
+1682728072 source:c:\users\nadia\desktop\c++\lab7\lab7.2\src\tegzamindyplomowy.cpp
+	"TegzaminDyplomowy.h"
+	<iostream>
+	"Tpromotor.h"
+	"Tstudent.h"
+	"TpracaDyplomowa.h"
+
+1682713658 source:c:\users\nadia\desktop\c++\lab7\lab7.2\src\tpromotor.cpp
+	"Tpromotor.h"
+	<iostream>
+	<string>
+
+1682728340 source:c:\users\nadia\desktop\c++\lab7\lab7.2\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+	<string>
+
+1682728376 source:c:\users\nadia\desktop\c++\lab7\lab7.2\src\tpracadyplomowa.cpp
+	"TpracaDyplomowa.h"
+	<iostream>
+	<string>
+
